@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+~$*
+*.tmp
+*.bak
+*.swp
+
+# Hermes local data (никогда не в GitHub)
+.hermes/
